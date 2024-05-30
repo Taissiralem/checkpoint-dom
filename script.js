@@ -4,12 +4,7 @@ const c = document.querySelector(".poub");
 const d = document.querySelector(".btnlike");
 const e = document.querySelector("span");
 
-// function current() {
-//   let numm = ~~a.parentElement.previousElementSibling.innerHTML;
-//   numm++;
-//   console.log(numm);
-//   console.log(typeof numm);
-// }
+
 
 a.addEventListener("click", function () {
   parseInt(
